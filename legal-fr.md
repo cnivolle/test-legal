@@ -1,0 +1,5 @@
+# Préambule
+
+CLEVER CLOUD a conçu et développé une application logicielle, standard et paramétrable (le "Logiciel"), accessible en ligne, qui permet à ses clients de confier à CLEVER CLOUD la gestion complète de l'infrastructure logique de leur système d'information. A ce titre, et selon les options retenues par le CLIENT dans les Conditions Particulières, le CLIENT peut demander à CLEVER CLOUD d'installer sur son Logiciel l'ensemble des applications du CLIENT (progiciels ou applications métiers spécifiques), de gérer ses silos de données personnelles et/ou d'assurer la gestion complète des logs et des logs applicatifs de ses administrateurs (système ou réseau) comme de ses clients finaux.
+
+Le CLIENT souhaite pouvoir utiliser le Logiciel et, de manière générale, bénéficier des services proposés par CLEVER CLOUD dans les conditions qui suivent.
